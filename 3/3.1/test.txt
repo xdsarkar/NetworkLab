@@ -1,0 +1,13 @@
+TTL: 16, Payload Size: 100, Average RTT: 18, Packets: 23
+TTL: 16, Payload Size: 200, Average RTT: 15.7826, Packets: 23
+TTL: 16, Payload Size: 300, Average RTT: 16.4783, Packets: 23
+TTL: 16, Payload Size: 400, Average RTT: 17.8696, Packets: 23
+TTL: 16, Payload Size: 500, Average RTT: 17.0435, Packets: 23
+TTL: 16, Payload Size: 600, Average RTT: 16.6087, Packets: 23
+TTL: 16, Payload Size: 700, Average RTT: 17.9565, Packets: 23
+TTL: 16, Payload Size: 800, Average RTT: 15.4783, Packets: 23
+TTL: 16, Payload Size: 900, Average RTT: 18, Packets: 23
+TTL: 16, Payload Size: 1000, Average RTT: 17.0435, Packets: 23
+TTL: 16, Payload Size: 1100, Average RTT: 17.913, Packets: 23
+TTL: 16, Payload Size: 1200, Average RTT: 17.4783, Packets: 23
+TTL: 16, Payload Size: 1300, Average RTT: 15.1739, Packets: 23
